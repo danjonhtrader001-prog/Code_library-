@@ -1,11 +1,18 @@
-# 3 — Rust library
+# 3 — rust library
 
-Bibliothèque Rust (sécurité mémoire, modules haute performance).
+Stack Rust pour services sûrs, concurrents et déterministes (risk, gateways).
 
-## Contenu
+## Dossiers (bibliothèques HFT)
 
-À compléter : crate `Cargo.toml`, modules, tests.
+- [`tokio/`](tokio/)
+- [`crossbeam/`](crossbeam/)
+- [`serde_json/`](serde_json/)
+- [`zeromq/`](zeromq/)
+- [`ndarray/`](ndarray/)
+- [`tungstenite/`](tungstenite/)
+- [`redis/`](redis/)
+- [`tracing_metrics/`](tracing_metrics/)
 
-## Lien
+## Projet associé
 
-Projet principal : [quant-finance-probability](https://github.com/danjonhtrader001-prog/quant-finance-probability)
+[quant-finance-probability](https://github.com/danjonhtrader001-prog/quant-finance-probability)

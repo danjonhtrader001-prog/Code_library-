@@ -1,0 +1,17 @@
+# Dépendances Python recommandées pour HFT
+aiohttp
+cython
+numba
+numpy
+orjson
+pandas
+polars
+pytest
+pytest-benchmark
+pyyaml
+pyzmq
+redis
+scipy
+sortedcontainers
+uvloop
+websockets

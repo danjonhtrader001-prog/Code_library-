@@ -1,11 +1,18 @@
-# 2 — C++ library
+# 2 — cpp library
 
-Bibliothèque C++ (performance, moteurs de calcul, composants bas niveau).
+Stack C++ pour latence faible : moteur d'exécution, réseau, structures lock-free.
 
-## Contenu
+## Dossiers (bibliothèques HFT)
 
-À compléter : headers, sources, `CMakeLists.txt`, exemples.
+- [`boost_asio/`](boost_asio/)
+- [`eigen/`](eigen/)
+- [`zeromq/`](zeromq/)
+- [`quickfix/`](quickfix/)
+- [`tbb_parallel/`](tbb_parallel/)
+- [`spdlog_fmt/`](spdlog_fmt/)
+- [`lockfree_queues/`](lockfree_queues/)
+- [`benchmark_testing/`](benchmark_testing/)
 
-## Lien
+## Projet associé
 
-Projet principal : [quant-finance-probability](https://github.com/danjonhtrader001-prog/quant-finance-probability)
+[quant-finance-probability](https://github.com/danjonhtrader001-prog/quant-finance-probability)
