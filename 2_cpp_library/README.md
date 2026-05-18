@@ -2,6 +2,10 @@
 
 Stack C++ pour latence faible : moteur d'exécution, réseau, structures lock-free.
 
+## Fondamentaux du langage
+
+- [`fundamentals/`](fundamentals/) — bases C++17 (STL, RAII, templates, smart pointers) + CMake
+
 ## Dossiers (bibliothèques HFT)
 
 - [`boost_asio/`](boost_asio/)

@@ -2,6 +2,10 @@
 
 Stack Rust pour services sûrs, concurrents et déterministes (risk, gateways).
 
+## Fondamentaux du langage
+
+- [`fundamentals/`](fundamentals/) — bases Rust (ownership, Result, traits) + exemples Cargo
+
 ## Dossiers (bibliothèques HFT)
 
 - [`tokio/`](tokio/)

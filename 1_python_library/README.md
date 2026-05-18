@@ -2,6 +2,10 @@
 
 Stack Python pour recherche, prototypage et services HFT non ultra-critiques.
 
+## Fondamentaux du langage
+
+- [`fundamentals/`](fundamentals/) — bases Python (types, OOP, exceptions, NumPy intro)
+
 ## Dossiers (bibliothèques HFT)
 
 - [`numpy_scipy/`](numpy_scipy/)
